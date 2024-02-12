@@ -1,0 +1,4 @@
+
+    7  ./clean_directories.sh /home/yevgeniy/Desktop/tasks_to_add/task_8
+    8  ./ownersort.sh /home/yevgeniy/Desktop/tasks_to_add/task_8
+   10  history >history.txt
